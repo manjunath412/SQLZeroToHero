@@ -1,1 +1,1 @@
-#Steps to Install PostgreSQL and PGAdmin
+## Steps to Install PostgreSQL and PGAdmin
