@@ -24,4 +24,4 @@
 
 - **Data Ranges and Types**: Queries involving intervals and spans.
 
-### Happy Learning
+### Happy Analytics!
